@@ -11,7 +11,7 @@
 --------------------------------------------------------------*/
 @font-face {
   font-family: 'Rightly So Nf';
-  src: url(Fonts/rightlysonf.otf) format('opentype');
+  src: url(assets/css/fonts/Rightly_So_NF_W01_Regular.tff) format('truetype');
 }
 
 body {
