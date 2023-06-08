@@ -9,9 +9,10 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-@import url(//db.onlinewebfonts.com/c/0c2f3f0335371068c0de6339cdac87ad?family=RightlySoNFW01-Regular);
-
-@font-face {font-family: "RightlySoNFW01-Regular"; src: url("//db.onlinewebfonts.com/t/0c2f3f0335371068c0de6339cdac87ad.eot"); src: url("//db.onlinewebfonts.com/t/0c2f3f0335371068c0de6339cdac87ad.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/0c2f3f0335371068c0de6339cdac87ad.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/0c2f3f0335371068c0de6339cdac87ad.woff") format("woff"), url("//db.onlinewebfonts.com/t/0c2f3f0335371068c0de6339cdac87ad.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/0c2f3f0335371068c0de6339cdac87ad.svg#RightlySoNFW01-Regular") format("svg"); }
+@font-face {
+  font-family: 'Rightly So Nf';
+  src: url(Fonts/rightlysonf.otf) format('truetype');
+}
 
 body {
   font-family: "Open Sans", sans-serif;
