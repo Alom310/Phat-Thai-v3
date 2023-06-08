@@ -11,17 +11,17 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  background: #0c0b09;
+  background: #000;
   color: #fff;
 }
 
 a {
-  color: #cda45e;
+  color: #ff6600;
   text-decoration: none;
 }
 
 a:hover {
-  color: #d9ba85;
+  color: #ff6600;
   text-decoration: none;
 }
 
@@ -45,7 +45,7 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #1a1814;
+  background: #1a1818;
 }
 
 #preloader:before {
@@ -53,9 +53,9 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #1a1814;
-  border-top-color: #cda45e;
-  border-bottom-color: #cda45e;
+  border: 6px solid #1a1818;
+  border-top-color: #ff6600;
+  border-bottom-color: #ff6600;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -86,22 +86,22 @@ h6 {
   height: 44px;
   border-radius: 50px;
   transition: all 0.4s;
-  border: 2px solid #cda45e;
+  border: 2px solid #ff6600;
 }
 
 .back-to-top i {
   font-size: 28px;
-  color: #cda45e;
+  color: #ff6600;
   line-height: 0;
 }
 
 .back-to-top:hover {
-  background: #cda45e;
+  background: #ff6600;
   color: #1a1814;
 }
 
 .back-to-top:hover i {
-  color: #444444;
+  color: #000000;
 }
 
 .back-to-top.active {
@@ -134,7 +134,7 @@ h6 {
 
 #topbar .contact-info i {
   font-style: normal;
-  color: #d9ba85;
+  color: #ff6600;
 }
 
 #topbar .contact-info i span {
@@ -491,7 +491,7 @@ h6 {
 }
 
 #hero h1 span {
-  color: #ff6600;S
+  color: #ff6600;
 }
 
 #hero h2 {
@@ -650,7 +650,7 @@ section {
 }
 
 .section-bg {
-  background-color: #1a1814;
+  background-color: #1a1818;
 }
 
 .section-title {
@@ -913,7 +913,7 @@ section {
 
 .menu #menu-flters li:hover,
 .menu #menu-flters li.filter-active {
-  color: #cda45e;
+  color: #ff6600;
 }
 
 .menu #menu-flters li:last-child {
@@ -961,7 +961,7 @@ section {
 }
 
 .menu .menu-content a:hover {
-  color: #cda45e;
+  color: #ff6600;
 }
 
 .menu .menu-content span {
@@ -970,7 +970,7 @@ section {
   z-index: 3;
   padding: 0 10px;
   font-weight: 600;
-  color: #cda45e;
+  color: #ff6600;
 }
 
 .menu .menu-ingredients {
@@ -998,23 +998,23 @@ section {
   transition: 0.3s;
   color: #fff;
   border-radius: 0;
-  border-right: 2px solid #cda45e;
+  border-right: 2px solid #ff6600;
   font-weight: 600;
   font-size: 15px;
 }
 
 .specials .nav-link:hover {
-  color: #cda45e;
+  color: #ff6600;
 }
 
 .specials .nav-link.active {
   color: #1a1814;
-  background: #cda45e;
-  border-color: #cda45e;
+  background: #ff6600;
+  border-color: #ff6600;
 }
 
 .specials .nav-link:hover {
-  border-color: #cda45e;
+  border-color: #ff6600;
 }
 
 .specials .tab-pane.active {
@@ -1588,7 +1588,7 @@ section {
   background: black;
   border-top: 1px solid #ff6600;
   border-bottom: 1px solid #ff6600;
-  padding: 60px 0 30px 0;
+  padding: 20px 0 20px 0;
 }
 
 #footer .footer-top .footer-info {
