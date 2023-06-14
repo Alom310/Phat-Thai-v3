@@ -9,11 +9,6 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-/* @font-face {
-  font-family: 'Rightly So Nf';
-  src: url(assets/css/fonts/Rightly_So_NF_W01_Regular.tff) format('truetype');
-} */
-
 @font-face {font-family: "Rightly So Nf"; 
   src: url("//db.onlinewebfonts.com/t/0c2f3f0335371068c0de6339cdac87ad.eot"); src: url("//db.onlinewebfonts.com/t/0c2f3f0335371068c0de6339cdac87ad.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/0c2f3f0335371068c0de6339cdac87ad.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/0c2f3f0335371068c0de6339cdac87ad.woff") format("woff"), url("//db.onlinewebfonts.com/t/0c2f3f0335371068c0de6339cdac87ad.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/0c2f3f0335371068c0de6339cdac87ad.svg#RightlySoNFW01-Regular") format("svg"); 
 }
@@ -416,7 +411,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #cda45e;
+  color: #ff6600;
 }
 
 .navbar-mobile .getstarted,
@@ -464,7 +459,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/hero-bg.png") top center;
   background-size: cover;
   position: relative;
   padding: 0;
@@ -754,7 +749,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  background: url("../img/about-bg.jpg") center center;
+  /* background: url("../img/about-bg.jpg") center center; */
   background-size: cover;
   position: relative;
   padding: 80px 0;
@@ -789,8 +784,8 @@ section {
   height: 60px;
   z-index: 1;
   content: "";
-  border-left: 5px solid #cda45e;
-  border-top: 5px solid #cda45e;
+  border-left: 5px solid #ff6600;
+  border-top: 5px solid #ff6600;
   transition: 0.5s;
 }
 
@@ -802,8 +797,8 @@ section {
   height: 60px;
   z-index: 2;
   content: "";
-  border-right: 5px solid #cda45e;
-  border-bottom: 5px solid #cda45e;
+  border-right: 5px solid #ff6600;
+  border-bottom: 5px solid #ff6600;
   transition: 0.5s;
 }
 
