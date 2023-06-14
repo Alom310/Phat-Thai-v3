@@ -1405,7 +1405,7 @@ section {
 }
 
 .chefs .member .social a:hover {
-  color: #cda45e;
+  color: #ff6600;
 }
 
 .chefs .member .social i {
@@ -1633,7 +1633,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #cda45e;
+  background: #ff6600;
   color: #fff;
   text-decoration: none;
 }
