@@ -749,7 +749,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  /* background: url("../img/about-bg.jpg") center center; */
+  background: url("../img/about-bg.png") center center;
   background-size: cover;
   position: relative;
   padding: 80px 0;
@@ -1730,4 +1730,14 @@ section {
   text-align: center;
   font-size: 13px;
   color: #fff;
+}
+
+.uber {
+  height: 50px;
+  width: 50px;
+}
+
+.uber-nav {
+  height: 35px;
+  width: 35px;
 }
