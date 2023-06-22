@@ -893,6 +893,13 @@ section {
 /*--------------------------------------------------------------
 # Menu Section
 --------------------------------------------------------------*/
+.menu {
+  background: url("../img/menu-bg.jpg") center center;
+  background-size: cover;
+  position: relative;
+  padding: 80px 0;
+}
+
 .menu #menu-flters {
   padding: 0;
   margin: 0 auto 0 auto;
@@ -983,6 +990,12 @@ section {
   font-size: 14px;
   font-family: "Poppins", sans-serif;
   color: rgba(255, 255, 255, 0.5);
+}
+
+@media (min-width: 1024px) {
+  .menu {
+    background-attachment: fixed;
+  }
 }
 
 /*--------------------------------------------------------------
