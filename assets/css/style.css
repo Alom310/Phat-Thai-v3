@@ -1745,12 +1745,22 @@ section {
   color: #fff;
 }
 
-.uber {
+.app {
   height: 50px;
   width: 50px;
 }
 
-.uber-nav {
+.app-nav {
   height: 35px;
   width: 35px;
+}
+
+.app-grub {
+  height: 45px;
+  width: 45px;
+}
+
+.app-grub-nav {
+  height: 30px;
+  width: 30px;
 }
