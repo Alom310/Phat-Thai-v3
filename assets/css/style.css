@@ -687,7 +687,7 @@ section {
   margin: 0;
   font-size: 36px;
   font-weight: 700;
-  font-family: "Playfair Display", serif;
+  font-family: "Rightly So Nf", sans-serif;
   color: #ff6600;
 }
 
@@ -1154,6 +1154,10 @@ section {
 --------------------------------------------------------------*/
 .catering {
   background-color: black;
+}
+
+.catering-title {
+  font-family: "Rightly So Nf", sans-serif;
 }
 
 /*--------------------------------------------------------------
