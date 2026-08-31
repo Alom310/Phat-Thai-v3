@@ -1114,6 +1114,16 @@ section {
   align-items: flex-start; 
   margin: 0 auto;
 }
+
+.reservation-section { 
+  width: 100%; 
+  text-align: center; 
+  margin: 60px auto; 
+} 
+
+.reservation-section h2 { 
+  margin-bottom: 30px; 
+}
 /*--------------------------------------------------------------
 # Catering
 --------------------------------------------------------------*/
